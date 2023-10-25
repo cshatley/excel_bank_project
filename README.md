@@ -12,4 +12,6 @@ Decision Tree for reasons customers leave the bank.
 ### Files
 Bank_Project_Brief
 
+Project Portfolio (starting slide 26)
+
 Data Exploration
